@@ -1,9 +1,13 @@
-### Hi there 👋
+### Salut 👋
 
-<!--
-**Kurama0001/Kurama0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href=""><img src="https://discord.c99.nl/widget/theme-2/639992024606441473.png" alt="rien"/></a>
+  
+<a href=""><img src="https://img.shields.io/github/stars/Kurama0001?color=%23fec31&style=for-the-badge" alt="rien"/></a>
+<a href=""><img src="https://img.shields.io/github/followers/Kurama0001?color=487cea&style=for-the-badge" alt="rien"/></a>
+  
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=Kurama0001&show_icons=true&theme=gotham" alt="Kurama#0001" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
