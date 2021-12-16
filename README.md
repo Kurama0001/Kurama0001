@@ -9,7 +9,7 @@
 And others...
 
 #### Account 
-Name : Kurama#0001
+Name : Kurama#0001\n
 ID `639992024606441473`
 
 ### Stats GitHub :
