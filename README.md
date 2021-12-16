@@ -7,7 +7,7 @@
 #### Bot - Winter
 ![img](https://cdn.discordapp.com/attachments/841316530771066900/920973431195988008/unknown.png)
 ##### Support Winter 
-![link](https://discord.gg/hsmD2Q3mjS)
+[Discord'Link](https://discord.gg/hsmD2Q3mjS)
 
 #### Account 
 Name : Kurama#0001 (`639992024606441473`)
