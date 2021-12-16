@@ -6,11 +6,11 @@
 
 #### Bot - Winter
 ![img](https://cdn.discordapp.com/attachments/841316530771066900/920973431195988008/unknown.png)
-And others...
+##### Support Winter 
+![link](https://discord.gg/hsmD2Q3mjS)
 
 #### Account 
-Name : Kurama#0001\n
-ID `639992024606441473`
+Name : Kurama#0001 (`639992024606441473`)
 
 ### Stats GitHub :
 ![img](https://github-readme-stats.vercel.app/api?username=Kurama0001&show_icons=true&theme=gotham)
