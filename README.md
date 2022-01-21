@@ -16,4 +16,4 @@ Name : Kurama#0001 (`639992024606441473`)
 ![img](https://github-readme-stats.vercel.app/api?username=Kurama0001&show_icons=true&theme=gotham)
 
 #### Banner :
-![img](https://images-ext-1.discordapp.net/external/kAyfvmnsg5uLxNbDysoqJyUU0hfqPNJpgCYa7wCad00/%3Fsize%3D4096/https/cdn.discordapp.com/banners/639992024606441473/a_37ed3c41614743b2d93248b622c48e7e.gif)
+![img](https://cdn.discordapp.com/attachments/929396106872356895/934210786404990996/a_371b84e2aef2d38c802bbfef18225f97.gif)
