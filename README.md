@@ -5,7 +5,7 @@
 ### Discord :
 
 #### Bot - Winter
-![img](https://cdn.discordapp.com/attachments/841316530771066900/920973431195988008/unknown.png)
+![img](https://cdn.discordapp.com/attachments/929396106872356895/934209570518233108/unknown.png)
 ##### Support Winter 
 [Discord'Link](https://discord.gg/hsmD2Q3mjS)
 
@@ -16,4 +16,4 @@ Name : Kurama#0001 (`639992024606441473`)
 ![img](https://github-readme-stats.vercel.app/api?username=Kurama0001&show_icons=true&theme=gotham)
 
 #### Banner :
-![img](https://cdn.discordapp.com/banners/639992024606441473/14550b16d0baec76d44f29131a5630b2.png?size=4096)
+![img](https://images-ext-1.discordapp.net/external/kAyfvmnsg5uLxNbDysoqJyUU0hfqPNJpgCYa7wCad00/%3Fsize%3D4096/https/cdn.discordapp.com/banners/639992024606441473/a_37ed3c41614743b2d93248b622c48e7e.gif)
